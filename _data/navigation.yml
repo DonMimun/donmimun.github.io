@@ -1,0 +1,11 @@
+# he dejado un espacio delante porque le programa me lo exige
+# ya que cuando quito el espacio me dice que no se encuentra el guion
+# El problema esta en que solo me enseña inicio 
+# cuando antes se podia ver todo y no habia ningun espacio delante
+# Problema solucionado e ido dejando espacios hasta que jekyll ha sido capaz de leerlo
+ - name: Inicio
+   link: /
+ - name: About
+   link: /about.html
+ - name: Publicaciones
+   link: /blogs.html
